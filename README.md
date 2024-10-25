@@ -1,0 +1,2 @@
+# webstaticme
+myweb static
